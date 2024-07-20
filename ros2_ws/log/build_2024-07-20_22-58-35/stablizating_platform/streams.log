@@ -1,0 +1,25 @@
+[0.944s] Invoking command in '/home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform': PYTHONPATH=/home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform/prefix_override:/home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform/build --no-deps symlink_data
+[1.297s] running develop
+[1.299s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.299s]   warnings.warn(
+[1.485s] running egg_info
+[1.486s] creating stablizating_platform.egg-info
+[1.486s] writing stablizating_platform.egg-info/PKG-INFO
+[1.486s] writing dependency_links to stablizating_platform.egg-info/dependency_links.txt
+[1.487s] writing entry points to stablizating_platform.egg-info/entry_points.txt
+[1.487s] writing requirements to stablizating_platform.egg-info/requires.txt
+[1.487s] writing top-level names to stablizating_platform.egg-info/top_level.txt
+[1.488s] writing manifest file 'stablizating_platform.egg-info/SOURCES.txt'
+[1.490s] reading manifest file 'stablizating_platform.egg-info/SOURCES.txt'
+[1.491s] writing manifest file 'stablizating_platform.egg-info/SOURCES.txt'
+[1.493s] running build_ext
+[1.493s] Creating /home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/lib/python3.10/site-packages/stablizating-platform.egg-link (link to .)
+[1.495s] 
+[1.495s] Installed /home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform
+[1.495s] running symlink_data
+[1.496s] creating /home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/share/ament_index
+[1.496s] creating /home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/share/ament_index/resource_index
+[1.496s] creating /home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/share/ament_index/resource_index/packages
+[1.496s] symbolically linking /home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform/resource/stablizating_platform -> /home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/share/ament_index/resource_index/packages
+[1.497s] symbolically linking /home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform/package.xml -> /home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/share/stablizating_platform
+[1.548s] Invoked command in '/home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform' returned '0': PYTHONPATH=/home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform/prefix_override:/home/vardan/stablizing_platform/ros2_ws/install/stablizating_platform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/stablizing_platform/ros2_ws/build/stablizating_platform/build --no-deps symlink_data

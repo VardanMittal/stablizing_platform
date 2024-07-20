@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+resource/stablizating_platform
+stablizating_platform/__init__.py
+stablizating_platform.egg-info/PKG-INFO
+stablizating_platform.egg-info/SOURCES.txt
+stablizating_platform.egg-info/dependency_links.txt
+stablizating_platform.egg-info/entry_points.txt
+stablizating_platform.egg-info/requires.txt
+stablizating_platform.egg-info/top_level.txt
+stablizating_platform.egg-info/zip-safe
